@@ -1,0 +1,9 @@
+Changes
+Weakref.xs
+MANIFEST
+Makefile.PL
+README
+lib/Clone/Weakref.pm
+ppport.h
+t/Clone-Weakref.t
+META.yml                                 Module meta-data (added by MakeMaker)

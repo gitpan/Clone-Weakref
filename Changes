@@ -1,0 +1,6 @@
+Revision history for Perl extension Clone::Weakref
+
+0.01  Sat Mar 26 14:01:05 2005
+	- original version; created by h2xs 1.23 with options
+		-nClone::Weakref
+
